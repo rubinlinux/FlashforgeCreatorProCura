@@ -35,3 +35,18 @@ Remember, that that extruder 1 is right and extruder 2 is left. The easiest way 
 ## Thanks To
 
 This plugin is mainly https://github.com/eugr/Flashforge-for-Cura/ adapted to cura 5's new plugin format. Thanks to https://github.com/ronoaldo/FlashforgeFinderIntegration/ for some code & examples as well.
+
+
+## Publishing to Cura Marketplace
+
+I would like to get this published to Cura Marketplace so we can just add it from the store.
+
+https://github.com/Ultimaker/Cura/wiki/Creating-Packages-Plugins-For-The-Marketplace has directions.
+
+Sounds like we need to set this up to build a .zip file (maybe with github release?) with the files in the proper place
+
+AND
+
+I will need help testing it on macs and windows, since I don't use those platforms. 
+
+Please let me know if you can help.
