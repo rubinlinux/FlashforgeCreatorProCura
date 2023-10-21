@@ -1,5 +1,7 @@
 ## Flash Forge Creator Pro plugin for Cura
 
+<img src="https://github.com/rubinlinux/FlashforgeCreatorProCura/assets/1413897/dde47608-0bc8-49b8-9fd9-9fae480d1c71" alt="screenshot showing the ffcp build plate in cura" width="200"/>
+
 ### ** This is a work in progress **
 
 How to have the best experience with a Flashforge Creator Pro and Cura:
@@ -28,6 +30,7 @@ Remember - Extruder 1 is RIGHT, Extruder 2 is LEFT!
 BEFORE SLICING, DISABLE UNUSED EXTRUDER if using just one nozzle!
 
 Remember, that that extruder 1 is right and extruder 2 is left. The easiest way to disable/enable specific extruder is to go to Settings menu and do it from there as they are named properly in it.
+
 
 ## Thanks To
 
