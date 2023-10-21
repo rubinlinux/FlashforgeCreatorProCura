@@ -1,0 +1,18 @@
+{
+    "name": "FlashforgeCreatorproIntegration",
+    "author": "Rubin",
+    "version": "2.0.1",
+    "description": "Flashforge Creator Pro integration to enable setting up and using the printer.",
+    "api": 5,
+    "supported_sdk_versions": [
+        "7.2.0",
+        "7.3.0",
+        "7.4.0",
+        "7.5.0",
+        "7.8.0",
+        "7.9.0",
+        "8.0.0",
+        "8.1.0"
+    ],
+    "i18n-catalog": "cura"
+}
