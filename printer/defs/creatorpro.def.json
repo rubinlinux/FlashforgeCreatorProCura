@@ -40,7 +40,7 @@
     },
     "overrides": {
         "machine_name": { "default_value": "FlashForge Creator Pro" },
-        "machine_gcode_flavor": { "default_value": "Makerbot" },
+        "machine_gcode_flavor": { "default_value": "Marlin" },
 		"material_diameter": { "default_value": 1.75 },
         "machine_extruder_count": { "default_value": 2 },
         "machine_heated_bed": { "default_value": true },
